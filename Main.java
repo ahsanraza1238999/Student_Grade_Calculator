@@ -1,5 +1,3 @@
-package Student_Grade_Calculator;
-
 import java.util.Scanner;
 
 public class Main 
